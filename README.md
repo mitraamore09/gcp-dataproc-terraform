@@ -7,7 +7,7 @@
 
 **A production-ready Infrastructure-as-Code (IaC) solution for deploying a complete data processing stack on Google Cloud Platform**
 
-[Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Documentation](#-documentation) • [Contributing](#-contributing)
+[Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture)
 
 </div>
 
@@ -21,6 +21,7 @@
 - [Prerequisites](#-prerequisites)
 - [Quick Start](#-quick-start)
 - [Project Structure](#-project-structure)
+- [Security](#-security)
 - [Technical Challenges](#-technical-challenges--solutions)
 - [Cost Estimation](#-cost-estimation)
 
