@@ -15,13 +15,12 @@
 
 ## 📖 Table of Contents
 
-- [Problem Statement](#-problem statement)
+- [Problem Statement](#-problem-statement)
 - [Features](#-features)
 - [Architecture](#-architecture)
 - [Prerequisites](#-prerequisites)
 - [Quick Start](#-quick-start)
 - [Project Structure](#-project-structure)
-- [Configuration](#-configuration)
 - [Technical Challenges](#-technical-challenges--solutions)
 - [Cost Estimation](#-cost-estimation)
 
@@ -394,6 +393,6 @@ Calculate exact costs: [GCP Pricing Calculator](https://cloud.google.com/product
 
 <div align="center">
 
-**Made with ❤️ by Mitraa More(https://github.com/yourusername)**
+**Made with ❤️ by Mitraa More(https://github.com/mitraamore09)**
 
 </div>
